@@ -1,11 +1,11 @@
-package com.vermeulen.trialInstant;
+package com.vermeulen.trial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TrialInstantApplication {
+public class TrialApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(TrialInstantApplication.class, args);
+		SpringApplication.run(TrialApplication.class, args);
 	}
 }
